@@ -53,6 +53,8 @@ CA20s_Forms_Assignment.zip
 |-- CA20s_Forms_Submission.php
 |-- Group_Names.txt
 
+```
+
 # Form Design 
 ![image](https://github.com/Miirshe/assignment6Php/assets/126691024/edeca642-81d5-4312-a905-be7b8a2f668a)
 
